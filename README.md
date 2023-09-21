@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&count_private=true)](https://github.com/rs517/github-readme-stats)
 
 <!--
 **rs517/rs517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
