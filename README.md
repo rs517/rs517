@@ -10,7 +10,7 @@
         <summary><strong>📈 GitHub Stats</strong></summary>
         <br>
 
-![rs517's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs517&show_icons=true&theme=vue-dark)
+![rs517's GitHub stats](https://github-readme-stats-clone-pmyi.vercel.app/api?username=rs517&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rs517&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
