@@ -12,7 +12,7 @@
 
 ![rs517's GitHub stats](https://github-readme-stats-clone-pmyi.vercel.app/api?username=rs517&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rs517&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-clone-pmyi.vercel.app/api/top-langs/?username=rs517&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rs517&theme=discord)](https://github.com/rs517/github-profile-trophy)
     </details>
